@@ -1,0 +1,59 @@
+.heading{
+    font-size: 38px;
+    font-weight: bold;
+    margin-left: 13px;
+    
+}
+.price{
+    color: rgb(23, 137, 23);
+    font-size: 27px;
+    font-weight: bold;
+    margin-left: 13px;
+}
+.link{
+    font-size: 25px;
+    margin-left: 13px;
+    transition: color 0.16s;
+}
+.link:hover{
+    color:rgb(193, 128, 6);
+}
+.delivery{
+    font-size: 26;
+    margin-left: 13px;
+}
+.Cart{
+    background-color: rgb(255, 228, 49);
+    height: 46px;
+    border: none;
+    width: 180px;
+    margin-right: 10px;
+    border-radius: 23px;
+    font-size: 20px;
+    margin-left: 13px;
+    cursor: pointer;
+    transition: background-color 0.16s;
+
+}
+.cart:hover{
+    background-color: rgb(228, 192, 50);
+}
+.cart:active{
+    opacity: 0.6;
+}
+.Buy{
+    height: 46px;
+    border: none;
+    width: 180px;
+    border-radius: 23px;
+    font-size: 20px;
+    background-color: rgb(234, 152, 0);
+    cursor: pointer;
+    transition: background-color 0.17s;
+}
+.Buy:hover{
+    background-color: rgb(182, 118, 0);
+}
+.Buy:active{
+    opacity: 0.6;
+}

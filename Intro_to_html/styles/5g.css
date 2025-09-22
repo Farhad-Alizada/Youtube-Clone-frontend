@@ -1,0 +1,25 @@
+p{
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.web{
+    font-weight: bold;
+}
+.at{
+    font-weight:400;
+    color: rgb(97, 97, 97);
+}
+.at2{
+    color: rgb(59, 148, 216);
+}
+.at2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.description{
+    width: 500px;
+    margin-bottom: 16px;
+    margin-top: 5px;
+}

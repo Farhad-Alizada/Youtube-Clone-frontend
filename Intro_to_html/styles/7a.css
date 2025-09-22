@@ -1,0 +1,7 @@
+.pic{
+    width: 200px;
+    border-radius: 200px;
+    object-fit: contain;
+    object-position: center;
+
+}

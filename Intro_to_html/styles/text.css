@@ -1,0 +1,57 @@
+p{
+    font-family: Roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.video-title{
+font-weight: bold;
+font-size: 18px;
+width: 300px;
+line-height: 23px;
+margin-bottom: 6px;
+
+
+}
+.video-stats{
+
+font-size: 14px;
+color: rgb(61, 61, 61);
+margin-top: 5;
+margin-bottom: 20;
+
+}
+.user{
+
+color: rgb(61, 61, 61);
+font-size: 14px;
+margin-bottom: 18px;
+margin-top: 15px;
+
+}
+.description{
+font-size: 14px;
+
+color: rgb(61, 61, 61);
+width: 270px;
+line-height: 20px;
+margin-bottom: 80px;
+}
+
+.sale{
+margin-bottom: 50px;
+font-size: 14px;
+background-color: rgb(227, 65, 64);
+color: white;
+padding-top: 18px;
+padding-bottom: 18px;
+padding-right: 18px;
+padding-left: 18px;
+text-align: center;
+
+}
+.shop-now:hover{
+text-decoration: underline;
+cursor: pointer;
+}
